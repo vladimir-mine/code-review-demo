@@ -14,7 +14,7 @@ public class Calculator {
         }
 
         double sum = 0;
-        for (double num : numbers) {
+        for (double num : numbers) { //22222222
             sum += num;
         }
         return sum / numbers.length;
